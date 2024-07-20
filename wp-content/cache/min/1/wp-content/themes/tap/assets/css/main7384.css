@@ -1441,9 +1441,9 @@ hr {
     background-size: 101%;
     cursor: pointer;
     font-family: "Muli", sans-serif;
-    background: #65de99;
-    background: -webkit-gradient(linear, left top, right bottom, from(#65de99), to(#28D7E3));
-    background: linear-gradient(to bottom right, #65de99, #28D7E3);
+    background: #478CCF;
+    background: -webkit-gradient(linear, left top, right bottom, from(#478CCF), to(#28D7E3));
+    background: linear-gradient(to bottom right, #478CCF, #28D7E3);
     -webkit-box-shadow: 0 0 45px rgba(0, 0, 0, .07);
     box-shadow: 0 0 45px rgba(0, 0, 0, .07);
     -webkit-transition: all .1s ease-in-out;
@@ -5677,7 +5677,7 @@ select::-ms-expand {
 }
 
 .wpcf7 div.wpcf7-mail-sent-ok {
-    background: #65de99;
+    background: #478CCF;
     padding: 1em;
     color: #fff;
     border-radius: 30px;
@@ -6199,8 +6199,8 @@ p.notice a {
     text-align: center;
     max-width: 50px;
     position: relative;
-    background: -webkit-gradient(linear, left top, right top, from(#65de99), to(#28d7e3));
-    background: linear-gradient(to right, #65de99, #28d7e3);
+    background: -webkit-gradient(linear, left top, right top, from(#478CCF), to(#28d7e3));
+    background: linear-gradient(to right, #478CCF, #28d7e3);
     padding: 10px;
     border-top-right-radius: 500px;
     border-top-left-radius: 0;
@@ -6230,8 +6230,8 @@ p.notice a {
     text-align: left;
     max-width: 90px;
     position: relative;
-    background: -webkit-gradient(linear, left top, right top, from(#65de99), to(#28d7e3));
-    background: linear-gradient(to right, #65de99, #28d7e3);
+    background: -webkit-gradient(linear, left top, right top, from(#478CCF), to(#28d7e3));
+    background: linear-gradient(to right, #478CCF, #28d7e3);
     padding: 10px;
     border-top-right-radius: 500px;
     border-top-left-radius: 500px;
@@ -8126,9 +8126,9 @@ div[data-id=group-leave-review]>div iframe {
     background-size: 101%;
     cursor: pointer;
     font-family: "Muli", sans-serif;
-    background: #65de99;
-    background: -webkit-gradient(linear, left top, right bottom, from(#65de99), to(#28D7E3));
-    background: linear-gradient(to bottom right, #65de99, #28D7E3);
+    background: #478CCF;
+    background: -webkit-gradient(linear, left top, right bottom, from(#478CCF), to(#28D7E3));
+    background: linear-gradient(to bottom right, #478CCF, #28D7E3);
     -webkit-box-shadow: 0 0 45px rgba(0, 0, 0, .07);
     box-shadow: 0 0 45px rgba(0, 0, 0, .07);
     transition: all .1s ease-in-out
@@ -8982,8 +8982,8 @@ h3 p {
 .page-template-landing-page-services-ab-2023 header .header .header-cta-button,
 .page-template-landing-page-business-types-ab-2023 header .header .header-cta-button,
 .page-template-home-page-landing-alt-header header .header .header-cta-button {
-    background: -webkit-gradient(linear, left top, right bottom, from(#65de99), to(#28d7e3));
-    background: linear-gradient(to bottom right, #65de99, #28d7e3)
+    background: -webkit-gradient(linear, left top, right bottom, from(#478CCF), to(#28d7e3));
+    background: linear-gradient(to bottom right, #478CCF, #28d7e3)
 }
 
 .page-template-landing-page-all-business-types-ab-2023 header .header .header-cta-button a,

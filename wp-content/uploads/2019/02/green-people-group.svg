@@ -1,0 +1,12 @@
+<svg id="Group_638" data-name="Group 638" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19.143" height="33.518" viewBox="0 0 19.143 33.518">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.198" cy="0.5" r="0.525" gradientTransform="matrix(0.636, -0.758, 0.722, 0.636, -0.289, 0.332)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7ed9d3"/>
+      <stop offset="1" stop-color="#1ec4b8"/>
+    </radialGradient>
+  </defs>
+  <path id="Path_300" data-name="Path 300" d="M-2135.2,851.2c-.251-.746-1.235-8.753,1.262-12.637.561-.815,1.372-1.4,3.511-.906s3.151,1.441,4.885,1.531,3.106-1.08,4.637-1.418a3.033,3.033,0,0,1,3.248.793c1.059.923,1.2,12.566,1.2,12.566h-3.5l.037-8.109h-.609v9.956l-5.331,8.633-5.2-8.633s.13-7.467,0-9.956-.395-2.045-.522,0,.246,7.64.014,8.18S-2134.954,851.948-2135.2,851.2Z" transform="translate(2135.607 -828.121)" fill="#3fdbd0"/>
+  <path id="Path_301" data-name="Path 301" d="M-2135.276,850.618s-1.172-8.169,1.323-12.053c.563-.815,1.373-1.4,3.512-.906s3.15,1.178,4.907,1.17,3.084-.719,4.615-1.057a3.033,3.033,0,0,1,3.248.793c1.058.923,1.177,12.012,1.177,12.012h-3.459l.015-7.555h-.607v9.956l-5.295.339-5.242-.339v-9.956h-.521l0,7.6Z" transform="translate(2135.615 -828.121)" fill="#3bd4c9"/>
+  <path id="Path_302" data-name="Path 302" d="M-2113.547,861.886v8.4l5.207-8.645Z" transform="translate(2123.305 -836.767)" fill="#12aba0"/>
+  <ellipse id="Ellipse_104" data-name="Ellipse 104" cx="4.777" cy="4.66" rx="4.777" ry="4.66" transform="translate(5.484 0)" fill="url(#radial-gradient)"/>
+</svg>
